@@ -1,6 +1,6 @@
 {
   "versionCode": 1,
-  "versionName": "1.1",
+  "versionName": "1.2",
   "changelog": [
     "✨ New Features",
     "- Redesigned App Drawer — Improved the App Drawer layout and visual appearance.",
@@ -17,6 +17,7 @@
     "- Fixed minor UI issues.",
     "- Improved overall stability.",
     "- Optimized launcher performance.",
+    "-Fixed bug updater"
   ],
   "downloadUrl": "https://raw.githubusercontent.com/efbyiwbfubfyi/hos-launcher/main/app-release.apk"
 }
