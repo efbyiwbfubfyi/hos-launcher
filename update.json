@@ -1,14 +1,22 @@
 {
-  "versionCode": 1,
-  "versionName": "1.1",
+  "versionCode": 2,
+  "versionName": "1.2",
   "changelog": [
-    "Liquid glass dock and search with frosted blur",
-    "Three clock styles",
-    "Wallpapers: presets, your own photo or system wallpaper",
-    "App drawer with automatic categories",
-    "Customizable settings",
-    "Changelog and update checker",
-    "Added back button"
+    "✨ New Features",
+    "- Redesigned App Drawer — Improved the App Drawer layout and visual appearance.",
+    "- Home Screen Improvements — Enhanced the Home Screen layout and customization experience.",
+    "- Soft Glass Clock — Introduced a new Soft Glass Clock design with a modern glass-inspired appearance.",
+    "- Adjustable Clock — Users can now adjust the clock size on the Home Screen.",
+    "- Resizable Search Bar — Added the ability to adjust the Search Bar height.",
+    "- Settings Improvements — Improved the Settings interface and customization options.",
+    "⚙️ Optimization",
+    "- Improved UI smoothness and responsiveness.",
+    "- Enhanced customization experience.",
+    "- Improved visual consistency across the launcher.",
+    "🛠️ Other Improvements",
+    "- Fixed minor UI issues.",
+    "- Improved overall stability.",
+    "- Optimized launcher performance.",
   ],
   "downloadUrl": "https://github.com/efbyiwbfubfyi/hos-launcher/raw/main/app-release.apk"
 }
