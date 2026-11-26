@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.0",
+  "versionName": "1.1",
   "changelog": [
     "✨ New Features",
     "- Redesigned App Drawer.",
@@ -9,12 +9,21 @@
     "- Added adjustable clock size.",
     "- Added adjustable Search Bar height.",
     "- Improved Settings.",
+    "- Added enhanced App Drawer navigation.",
+    "- Added customizable launcher preferences.",
+    
     "⚙️ Optimization",
     "- Improved UI smoothness.",
     "- Improved launcher performance.",
+    "- Optimized animations.",
+    "- Improved app loading responsiveness.",
+    
     "🛠️ Other Improvements",
     "- Fixed minor UI issues.",
-    "- Improved stability."
+    "- Improved stability.",
+    "- Improved touch responsiveness.",
+    "- Fixed various minor bugs.",
+    "- Refined overall user experience."
   ],
   "downloadUrl": "https://raw.githubusercontent.com/efbyiwbfubfyi/hos-launcher/main/app-release.apk"
 }
