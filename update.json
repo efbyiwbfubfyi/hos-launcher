@@ -1,7 +1,6 @@
 {
   "versionCode": "3",
   "versionName": "1.2",
-  "downloadUrl": "https://raw.githubusercontent.com/efbyiwbfubfyi/hos-launcher/main/update.json",
   "changes": [
     "Added Resource Management dashboard",
     "Added RAM usage monitoring",
