@@ -1,6 +1,7 @@
 {
-  "versionCode": "3",
+  "versionCode": 3,
   "versionName": "1.2",
+  "date": "2026-11-27",
   "changes": [
     "Added Resource Management dashboard",
     "Added RAM usage monitoring",
@@ -9,5 +10,6 @@
     "Improved launcher efficiency management",
     "Updated Changelog to fetch releases from GitHub",
     "Improved glass UI design"
-  ]
+  ],
+  "downloadUrl": "LINK_APK_KAMU"
 }
