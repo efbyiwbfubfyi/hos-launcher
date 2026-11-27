@@ -2,7 +2,7 @@
   "versionCode": 3,
   "versionName": "1.2",
   "date": "2026-11-27",
-  "downloadUrl": "https://github.com/efbyiwbfubfyi/hos-launcher/releases/download/v1.2/app-release.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/efbyiwbfubfyi/hos-launcher/main/update.json",
   "changes": [
     "Added Resource Management dashboard",
     "Added RAM usage monitoring",
